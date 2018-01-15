@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"C++ Snippets",
+		"C++ Starting Kit",
+		"C++11",
+		"Git",
+		"Git blame",
+		"GitGutter",
+		"Github Notifications",
+		"Github Tools",
+		"GitStatus"
+	]
+}
